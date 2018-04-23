@@ -1,0 +1,21 @@
+1 html 
+
+planning: 1 file
+
+really simple because we just need the tag structure to make our website. The content should in the JS
+
+2 Css
+
+1 file
+importent one, and include many things
+
+3 Js
+
+app.js
+
+include the modle, modleviles, views, the most complex part.
+
+4 API
+
+knockout, bootstrap, jquary.
+
