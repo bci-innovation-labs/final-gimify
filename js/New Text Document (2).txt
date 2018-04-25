@@ -1,4 +1,3 @@
-
 var model = {
 		
 		currentGame : null,
