@@ -1,0 +1,8 @@
+	When I start the project, I whrote the html file first, because html is the base structure of the project, but just set the structure, but didn't add anything specific, and then, is the JS file. I use the model, views, modelviews method to do this(MVVC). Firstly, gather the information of different games, like companies name, games name, their img.
+
+	After that, use octopus(modelviews) to make a link to the views and model, whick means make sure the views can call everythings of model.
+
+	Last part is views, views include 2 small parts, first is gather information from model through octopus, and then, render it to the page. Which means put this kind of information to the html files.
+
+	Last part is CSS file, can make the pages seems not so terrible.
+	This is the whole process to finish our project.
